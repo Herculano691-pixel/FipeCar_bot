@@ -191,7 +191,8 @@ def obter_preco(
         "Modelo": dados.get("Modelo"),
         "Marca": dados.get("Marca"),
         "Ano do Modelo": dados.get("AnoModelo"),
-        "Combustível": dados.get("Combustível"),
-        "Código FIPE": dados.get("Código FIPE"),
-        "Mês de Referência": dados.get("Mês de Referência"),
+        "Combustível": dados.get("Combustivel"),
+        "Código FIPE": dados.get("CódigoFIPE"),
+        "Mês de Referência": dados.get("MêsReferencia"),
     }
+#Teste de alteração
